@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">(( Tweek App ))</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">(( Carte ))</string>
+    <string name="info_sur_seisme">(( info ))</string>
+    <string name="vue_liste">(( Seismes ))</string>
+    <string name="google_maps_key">AIzaSyCtdK4Pf2kYexhWtl86DvXCfAnlP7pjEw4</string>
+</resources>
